@@ -1,0 +1,1 @@
+MONGODB_URI = mongodb+srv://benji-123:benji-123@cluster0.czli7qj.mongodb.net/?retryWrites=true&w=majority
